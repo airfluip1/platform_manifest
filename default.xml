@@ -27,7 +27,7 @@
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/galaxys4gmtd" name="airfluip1/android_kernel_galaxys4gmtd" remote="cm" revision="jb-mr1" />
-      <project path="device/samsung/galaxys4gmtd" name="airfluip1/android_device_samsung_galaxys4gmtd" remote="cm" revision="jb-mr1" />
+  <project path="device/samsung/galaxys4gmtd" name="airfluip1/android_device_samsung_galaxys4gmtd" remote="cm" revision="jb-mr1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="cm" revision="cm-10.1" />
